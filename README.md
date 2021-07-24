@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://alien-alfa.github.io"><span class="avatar"><img width='200' height='200'  src="https://i.ibb.co/NxFN3q1/logo.jpg" alt=""> </a></span>
-  <h1>Albin Thomas</h1>
+  <a href="https://ameer-kallumthodi.github.io"><span class="avatar"><img width='200' height='200'  src="Pikachu-407x400.png" alt=""> </a></span>
+  <h1>Ameer Suhail</h1>
 </div>
 
 <div align="center">
@@ -8,16 +8,16 @@
 </div>
 ##
 <p align="center">
-  <a href="https://github.com/Alien-alfa">
-    <img src="https://komarev.com/ghpvc/?username=Alien-alfa&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
+  <a href="https://github.com/ameer-kallumthodi">
+    <img src="https://komarev.com/ghpvc/?username=ameer-kallumthodi&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
 
   </a>
-  <a href="https://github.com/Alien-alfa?tab=stars">
-    <img src="https://img.shields.io/github/stars/Alien-alfa?color=ff69b4&label=Stargazers&style=plastic">
+  <a href="https://github.com/ameer-kallumthodi?tab=stars">
+    <img src="https://img.shields.io/github/stars/ameer-kallumthodi?color=ff69b4&label=Stargazers&style=plastic">
 
   </a>
-  <a href="https://github.com/Alien-alfa?tab=followers">
-    <img src="https://img.shields.io/github/followers/Alien-alfa?color=ff69b4&label=Followers&style=plastic">
+  <a href="https://github.com/ameer-kallumthodi?tab=followers">
+    <img src="https://img.shields.io/github/followers/ameer-kallumthodi?color=ff69b4&label=Followers&style=plastic">
 
   </a>
 </p>
@@ -27,8 +27,7 @@
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
-<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kyrie_baran" height="30" width="40" /></a>
-<a href="https://instagram.com/_the_soul_rider_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/ameer_.su_hail?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
   
 <!--
@@ -38,22 +37,22 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phaticusthiccy&show_icons=true&layout=compact&theme=nightowl" alt="phaticusthiccy" /></p>
 -->
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alien-alfa&show_icons=true&theme=nightowl" alt="Alien-alfa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameer-kallumthodi&show_icons=true&theme=nightowl" alt="ameer-kallumthodi" /></p>9
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alien-alfa&theme=nightowl" alt="Alien-alfa" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ameer-kallumthodi&theme=nightowl" alt="ameer-kallumthodi" /></p>
 </details> </div>
 
 <div align="center">
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/Alien-alfa?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
+![Metrics](https://metrics.lecoq.io/ameer-kallumthodi?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
 
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=Alien-alfa&repo=wabot-aq)](https://github.com/Alien-alfa/wabot-aq)
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=ameer-kallumthodi&repo=wabot-aq)](https://github.com/ameer-kallumthodi/wabot-aq)
 
 </div>
 <div align="center">
  <tr>
-        <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alien-alfa&theme=radical&layout=compact" /></td>
+        <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameer-kallumthodi&theme=radical&layout=compact" /></td>
     </tr>
     <tr>
         <td align="center"><img src="http://open.spotify.com/track/6rqhFgbbKwnb9MLmUQDhG6&cover_image=false)" /></td>
@@ -63,7 +62,7 @@
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=Alien-alfa)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=ameer-kallumthodi)
 
 </details>
 
