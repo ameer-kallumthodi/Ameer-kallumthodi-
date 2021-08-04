@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://ameer-kallumthodi.github.io"><span class="avatar"><img width='200' height='200'  src="https://ameer-kallumthodi.github.jpg" alt=""> </a></span>
+  <a href="https://ameer-kallumthodi.github.io"><span class="avatar"><img width='200' height='200'  src="https://github.com/ameer-kallumthodi.png?size=100" alt=""> </a></span>
   <h1>Ameer Suhail</h1>
 </div>
 
